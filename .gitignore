@@ -6,5 +6,6 @@ bin-int/
 # Files
 *.user
 *.sln.docstates
+*.sln
 *.vcxproj
 *.filters
